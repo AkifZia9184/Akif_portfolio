@@ -158,7 +158,7 @@ const Index = () => {
               Passionate about building scalable solutions that make a difference.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="public/Akif Zia resume.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="Akif Zia resume.pdf" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" className="bg-electric-500 hover:bg-electric-600 text-navy-900 font-semibold px-8 py-4 text-lg hover:scale-105 transition-all duration-300">
                   <Download className="w-5 h-5 mr-2" />
                   Download Resume
